@@ -23,6 +23,9 @@
 	<li>integer</li>
 	<li>array</li>
 </ul>
+   数据属性
+   <li>type</li>
+   <li>alias 别名</li> 
 <h4>object</h4>
 <p>
 	&nbsp;&nbsp;如果此属性为object, 则该属性有子属性, 该属性为json object, 必须要有properties属性. 例如: 
